@@ -1,0 +1,11 @@
+{
+  "name": "week-3-starting-node-jekkilekki",
+  "version": "1.0.0",
+  "description": "3주차 과제",
+  "main": "numbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Snowberger",
+  "license": "ISC"
+}
